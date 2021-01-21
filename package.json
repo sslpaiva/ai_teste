@@ -1,0 +1,25 @@
+{
+  "name": "ai_teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sslpaiva/ai_teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sslpaiva/ai_teste/issues"
+  },
+  "homepage": "https://github.com/sslpaiva/ai_teste#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
