@@ -1,0 +1,15 @@
+***clonar do github
+git clone https://github.com/sslpaiva/ai_teste.git
+***rodar o visual studio dentro do diretorio 
+code .
+***iniciar o projeto nodejs setando as bibliotecas
+npn init -y
+***Rodar o servidor local
+npm run dev
+***Preparar as mudanção para colocar na brench principal
+git status 
+git add -A 
+***Comite para a brench principal
+git commit -m 'ai_teste'
+***Enviar para a brench principal
+git push origin main
